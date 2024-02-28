@@ -15,12 +15,12 @@ dependencies:
   google_fonts: 6.1.0
 
   # Firebase
-  firebase_core: 2.25.4
-  firebase_analytics: 10.8.5
-  firebase_crashlytics: 3.4.14
-  firebase_auth: 4.17.4
+  firebase_core: 2.25.5
+  firebase_analytics: 10.8.7
+  firebase_crashlytics: 3.4.16
+  firebase_auth: 4.17.6
   google_sign_in: 6.2.1
-  cloud_firestore: 4.15.4
+  cloud_firestore: 4.15.6
 
   # State Management
   flutter_hooks: 0.20.5

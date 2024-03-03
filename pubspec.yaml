@@ -12,7 +12,7 @@ dependencies:
   
   # Design
   cupertino_icons: 1.0.6
-  google_fonts: 6.1.0
+  google_fonts: 6.2.0
 
   # Firebase
   firebase_core: 2.25.4
